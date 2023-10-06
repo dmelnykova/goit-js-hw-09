@@ -1,0 +1,12 @@
+.form {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-js {
+    width: 180px;
+    height: 40px;
+    background-color:rgb(117, 231, 241);
+    border-color: aliceblue;
+    border-radius: 20px;
+}
