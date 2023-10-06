@@ -70,3 +70,4 @@ function updateTimerDisplay(days, hours, minutes, seconds) {
   timerElements.minutes.textContent = addLeadingZero(minutes);
   timerElements.seconds.textContent = addLeadingZero(seconds);
 }
+
